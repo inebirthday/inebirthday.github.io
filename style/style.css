@@ -226,29 +226,6 @@ body {
 }
 
 /* Media Queries */
-@media screen and (max-height: 1000px) {
-  .six .hat {
-    right: 40%;
-  }
-}
-
-@media screen and (max-height: 800px) {
-  .six .hat {
-    right: 37%;
-  }
-}
-
-@media screen and (max-height: 700px) {
-  .six .hat {
-    right: 32%;
-  }
-}
-
-@media screen and (max-height: 850px) and (max-width: 450px) {
-  .six .hat {
-    right: 32%;
-  }
-}
 
 @media screen and (max-width: 500px) {
   .container {
@@ -270,11 +247,6 @@ body {
 
   .idea-6 span {
     font-size: 10rem;
-  }
-
-  .six .hat {
-    width: 50px;
-    top: -20px;
   }
 
   .wish-hbd {
